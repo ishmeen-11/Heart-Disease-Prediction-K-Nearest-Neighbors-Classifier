@@ -1,9 +1,5 @@
 # 📍 Day 5: K-Nearest Neighbors (KNN) Classifier – Heart Disease Prediction
 
-> 🗓️ **Date**: April 10, 2025  
-> 🧪 **Challenge**: 30 Days of Machine Learning Projects  
-
----
 
 ## 💡 Project Summary
 
